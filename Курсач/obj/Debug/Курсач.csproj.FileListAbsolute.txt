@@ -1,0 +1,14 @@
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\bin\Debug\Курсач.exe.config
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\bin\Debug\Курсач.exe
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\bin\Debug\Курсач.pdb
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\bin\Debug\EasyModbus.dll
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.csprojAssemblyReference.cache
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.Main_Page.resources
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.Form2.resources
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.csproj.CopyComplete
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.exe
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.pdb
+E:\Дима\БГУИР\2 семестр\Курсач\Курсач\Курсач\obj\Debug\Курсач.Form3.resources
